@@ -88,6 +88,7 @@ The following regression models were evaluated:
 
 ## 👤 Author
 **Yalchin Alasgarli**
+- LinkedIn: https://www.linkedin.com/in/yalchin-alasgarli/
 
 - Aspiring Data Scientist  
 - Background in GIS & Analytics  
